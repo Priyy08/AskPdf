@@ -1,0 +1,7 @@
+# Modules required to be installed before running the project with pip install command 
+
+PyPDF2
+streamlit
+langchain
+langchain_community
+huggingface-hub
